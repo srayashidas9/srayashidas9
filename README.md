@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srayashi Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A lazy B.Tech CSE Student from somewhere in India🦥</h3>
 
 - 🌱 I’m currently learning **Python, AIML**
 
 - 💬 Ask me about **Nothing**
 
-- No need to reach me **🙂**
+- 📫No need to reach me **🙂**
 
 - ⚡ Fun fact: **I can make myself awkward🫩**
 
