@@ -1,7 +1,7 @@
-<h1 align="center">🌙 Hi, I'm Srayashi Das 🎀</h1>
+<h1 align="center">🌙 Holla, I'm Srayashi Das 🎀</h1>
 
 <h3 align="center">
-  A B.Tech CSE student from India 🦥💻
+  A B.Tech CSE student from somewhere in India 🦥💻
 </h3>
 
 <p align="center">
@@ -45,7 +45,7 @@ Git           ███████░░░░░░░  Getting comfortable
 
 ---
 
-### 💗 Connect With Me
+### 💗 Connect With Me (or not)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srayashi-das-454209321/">
